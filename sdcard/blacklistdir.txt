@@ -1,6 +1,6 @@
 DCIM/Facebook 
 Movies
-Pictures/Meme
+Pictures/Memes
 .SHAREit
 MIUI
 Documents/Abc
