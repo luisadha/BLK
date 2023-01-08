@@ -1,0 +1,10 @@
+.system_config
+.config
+.termux
+GCAM/logZip
+GCAM/log
+GCAM
+DCIM/Facebook
+.SHAREit
+MIUI
+voip-data
