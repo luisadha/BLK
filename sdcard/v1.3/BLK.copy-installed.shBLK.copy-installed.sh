@@ -23,7 +23,7 @@
 
 
 
-readonly version="1.2"
+readonly version="1.3"
 readonly BASE_NAME=$(basename $0)
 readonly NO_EXTENSION=$(echo $BASE_NAME | sed 's/\..*//')
 
