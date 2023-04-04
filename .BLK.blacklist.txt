@@ -1,0 +1,19 @@
+AndroidIDEProjects
+DCIM/Capcut
+GCAM/logZip/
+GCAM/log/
+GCAM/
+MIUI/
+voip-data/
+Snapseed/
+sketchware/
+.nx/
+.ssh/
+YouTube/
+Android/media/com.whatsapp/WhatsApp/.Shared
+"Android/media/com.whatsapp/WhatsApp/Media/WhatsApp\ Stickers"
+"Android/media/com.whatsapp/WhatsApp/Media/WhatsApp\ Images/Sent"
+Android/media/com.whatsapp/WhatsApp/Media/.Links
+"Android/media/com.whatsapp/WhatsApp/Media/WhatsApp\ Video"
+"Android/media/com.whatsapp/WhatsApp/Media/WhatsApp\ Voice\ Notes"
+Android/media/com.whatsapp/WhatsApp/Media/.Statuses
